@@ -1,0 +1,54 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris",
+    "weight": 5
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci",
+    "weight": 3
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter",
+    "weight": 4
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au",
+    "weight": 2
+  },
+  {
+    "question": "Who wrote the play Romeo and Juliet?",
+    "answer": "William Shakespeare",
+    "weight": 3
+  },
+  {
+    "question": "What is the square root of 64?",
+    "answer": "8",
+    "weight": 2
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "Mount Everest",
+    "weight": 4
+  },
+  {
+    "question": "What is the symbol for the element oxygen?",
+    "answer": "O",
+    "weight": 2
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "answer": "J.K. Rowling",
+    "weight": 3
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo",
+    "weight": 5
+  }
+]
+
+  
